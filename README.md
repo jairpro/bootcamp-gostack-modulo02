@@ -16,6 +16,6 @@ Passos:
 
     yarn dev
 
-e para depurar:
+ou para depurar:
 
     yarn dev:debug
