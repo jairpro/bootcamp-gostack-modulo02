@@ -1,11 +1,9 @@
 # bootcamp-gostack-modulo02
 
 ## **Sobre**
-Projeto Node.js com cadastro e autenticação de usuários
+Projeto Node.js com cadastro e autenticação de usuários.
 
 ## **Instalação** 
-Passos:
-
 1 - Clonar esse repositório em seu computador;
 
 2 - Instalar as dependências do projeto digitando no terminal o comando:
